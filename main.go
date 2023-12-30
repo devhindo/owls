@@ -1,6 +1,9 @@
 package main
 
 import (
+	"github.com/devhindo/owls/owls"
 )
 
-func main() {}
+func main() {
+	owls.RUN()
+}

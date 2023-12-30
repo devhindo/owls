@@ -21,12 +21,4 @@ To get started with owls, follow these steps:
 5. Start the server: Run the generated executable file.
 6. Access the application: Open your web browser and navigate to `http://localhost:3000`.
 
-# Deployment
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to owls, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-owls is released under the [MIT License](LICENSE).
+## Deployment
