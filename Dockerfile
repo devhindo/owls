@@ -8,7 +8,7 @@ WORKDIR /app
 COPY . .
 
 # Build the application
-RUN go build -o main .
+RUN go mod tidy && go build -o main .
 
 # Expose the port on which the server will run
 EXPOSE 8080
