@@ -2,6 +2,11 @@ package owls
 
 // owls entry
 
+import (
+	"github.com/devhindo/owls/server"
+)
+
+
 func RUN() {
-	// TODO Implement concurrent handling for chat and video
+	server.RUN()
 }
